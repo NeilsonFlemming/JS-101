@@ -52,3 +52,22 @@ function square(number) {
 }
 
 console.log(square(16))
+
+let x = 10;
+let y = 3;
+
+console.log(x+y);
+console.log(x-y);
+console.log(x*y);
+console.log(x**y);
+
+console.log(++x)
+console.log (x);
+
+console.log(--x)
+console.log (x);
+
+let nums = 10;
+nums++;
+nums = nums+5;
+nums +=5;
